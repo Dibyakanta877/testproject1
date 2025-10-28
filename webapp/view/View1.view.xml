@@ -1,6 +1,6 @@
 <mvc:View controllerName="testproject1.controller.View1"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
-    <Page id="page" title="cicd page2 new new CICD chk1qqqqqfffff ">
+    <Page id="page" title="cicd page2 new new CICD chk1qqqqqffff ggggg ">
     </Page>
 </mvc:View>
